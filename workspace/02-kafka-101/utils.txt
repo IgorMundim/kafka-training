@@ -1,0 +1,5 @@
+linger.ms (time that will stand)
+or 
+batch.size 
+
+offset order of message
